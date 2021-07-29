@@ -1,6 +1,7 @@
 .background-color{background-color:lightblue;}
-.background-color-plum{background-color: plum;}
-.background-color-orange{background-color: orangered;}
+.background-color-plum{background-color: rgb(235, 228, 235);}
+.background-color-orange{background-color: #f8f9fa;}
 .text-color{color:black}
 
 .border-radius{border-radius: 14px;}
+.border-radius-2{border-radius: 37px; color:#ffffff;}
